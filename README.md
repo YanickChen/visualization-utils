@@ -12,7 +12,7 @@ Some visualization tools for images and networks
 
 ## 网络特征图
 
-<img src="./output/resnet18_feature_maps.jpg" alt="特征图" style="zoom: 80%;" />
+<img src="./output/resnet18_feature_maps.jpg" alt="特征图" style="zoom: 67%;" />
 
 ## 直方图
 
