@@ -27,7 +27,7 @@ def get_args():
     parser.add_argument(
         '--image-path',
         type=str,
-        default='./examples/both.png',
+        default='./test.jpg',
         help='Input image path')
     parser.add_argument('--aug-smooth', action='store_true',
                         help='Apply test time augmentation to smooth the CAM')

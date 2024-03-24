@@ -36,4 +36,6 @@ plt.plot(hist_g, color='green', label='Green', alpha=0.7)
 plt.plot(hist_b, color='blue', label='Blue', alpha=0.7)
 plt.legend()
 plt.xlim([0, 256])
+plt.savefig('./output/hog_rgb.jpg')
 plt.show()
+

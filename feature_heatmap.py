@@ -96,4 +96,4 @@ import matplotlib.pyplot as plt
 
 plt.imshow(processed[12])
 plt.axis('off')
-plt.savefig('resnet18_feature_maps.jpg', bbox_inches='tight')  # 若不加bbox_inches='tight'，保存的图片可能不完整
+plt.savefig('/output/resnet18_feature_maps.jpg', bbox_inches='tight')  # 若不加bbox_inches='tight'，保存的图片可能不完整
